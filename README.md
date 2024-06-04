@@ -8,7 +8,7 @@ This is a template for creating metadata repositories with a "Deploy to Salesfor
 - Update the URL of the button below, replacing {REPOSITORY-NAME} with the name of your Github repo
 
 ## Deploy
-<a href="https://githubsfdeploy.herokuapp.com?owner=EncludeLtd&repo={REPOSITORY-NAME}&ref=main">
+<a href="https://githubsfdeploy.herokuapp.com?owner=Enclude-Components&repo={REPOSITORY-NAME}&ref=main">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
